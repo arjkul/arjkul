@@ -1,4 +1,4 @@
-# Arjun Kulshreshtha
+# Arjun Kul
 
 > I build AI-powered operations products at the intersection of logistics, data infrastructure, and automation — and I run my own AI lab at home to stay sharp on the infrastructure layer.
 
@@ -75,6 +75,9 @@ Python automation on the Asana API to extract and analyze go-live data across 20
 | [`ai-ops-tooling`](https://github.com/arjkul/ai-ops-tooling) | Claude & Gemini integrations for internal PM/ops workflows |
 | [`metabase-sql-playbook`](https://github.com/arjkul/metabase-sql-playbook) | Documented SQL patterns for warehouse operations |
 | [`pm-data-stack-templates`](https://github.com/arjkul/pm-data-stack-templates) | PRD, RCA, and ops meeting frameworks I use in practice |
+| [`b2b-packing-config-generator`](https://github.com/arjkul/b2b-packing-config-generator) | Google Apps Script tool for generating B2B packing configs |
+| [`opportunity-tree-framework`](https://github.com/arjkul/opportunity-tree-framework) | Python tool converting Opportunity Tree diagrams to Excel matrices |
+| [`warehouse-exception-handling`](https://github.com/arjkul/warehouse-exception-handling) | Process design for WS-PACK missing-item and fulfillment exceptions |
 
 ---
 
