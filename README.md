@@ -77,7 +77,6 @@ Python automation on the Asana API to extract and analyze go-live data across 20
 | [`pm-data-stack-templates`](https://github.com/arjkul/pm-data-stack-templates) | PRD, RCA, and ops meeting frameworks I use in practice |
 | [`b2b-packing-config-generator`](https://github.com/arjkul/b2b-packing-config-generator) | Google Apps Script tool for generating B2B packing configs |
 | [`opportunity-tree-framework`](https://github.com/arjkul/opportunity-tree-framework) | Python tool converting Opportunity Tree diagrams to Excel matrices |
-| [`warehouse-exception-handling`](https://github.com/arjkul/warehouse-exception-handling) | Process design for WS-PACK missing-item and fulfillment exceptions |
 
 ---
 
