@@ -1,4 +1,4 @@
-# Arjun Kul
+# Arjun Kulshreshtha
 
 > I build AI-powered operations products at the intersection of logistics, data infrastructure, and automation — and I run my own AI lab at home to stay sharp on the infrastructure layer.
 
