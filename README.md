@@ -72,7 +72,6 @@ Python automation on the Asana API to extract and analyze go-live data across 20
 | [`warehouse-ops-intelligence`](https://github.com/arjkul/warehouse-ops-intelligence) | BI system design for B2B ops metrics at scale |
 | [`b2b-chargeback-rca-framework`](https://github.com/arjkul/b2b-chargeback-rca-framework) | Structured RCA across a multi-system data investigation |
 | [`merchant-onboarding-analytics`](https://github.com/arjkul/merchant-onboarding-analytics) | Python + Asana API automation for go-live tracking |
-| [`ai-ops-tooling`](https://github.com/arjkul/ai-ops-tooling) | Claude & Gemini integrations for internal PM/ops workflows |
 | [`metabase-sql-playbook`](https://github.com/arjkul/metabase-sql-playbook) | Documented SQL patterns for warehouse operations |
 | [`pm-data-stack-templates`](https://github.com/arjkul/pm-data-stack-templates) | PRD, RCA, and ops meeting frameworks I use in practice |
 | [`b2b-packing-config-generator`](https://github.com/arjkul/b2b-packing-config-generator) | Google Apps Script tool for generating B2B packing configs |
