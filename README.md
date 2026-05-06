@@ -61,6 +61,12 @@ Python automation on the Asana API to extract and analyze go-live data across 20
 
 ## Repos
 
+### AI & Automation Projects
+| Repo | What It Is |
+|---|---|
+| [`llm-daily-drivers`](https://github.com/arjkul/llm-daily-drivers) | Curated collection of 17 ready-to-run LLM apps for productivity, creativity, finance, health & wellness — organized by use case for non-technical users |
+| [`multi-agent-merchant-education-pipeline`](https://github.com/arjkul/multi-agent-merchant-education-pipeline) | AI-powered pipeline automating merchant onboarding education with multi-agent orchestration, content personalization, and progress tracking |
+
 ### Personal Infrastructure
 | Repo | What It Is |
 |---|---|
@@ -81,11 +87,13 @@ Python automation on the Asana API to extract and analyze go-live data across 20
 
 ## What I'm Focused On
 
-- Scaling AI-assisted operations tooling across a multi-warehouse network
+- Scaling AI-assisted operations tooling across multi-warehouse networks
+- Building curated, user-friendly AI applications for everyday use
+- Automating merchant education and onboarding workflows with multi-agent systems
 - Closing revenue integrity gaps in complex B2B billing systems
 - Understanding the full stack from model inference to business outcome
 
 ---
 
 *Open to Director of PM roles in logistics tech, data infrastructure, and AI-powered operations.*  
-📬 [LinkedIn](https://www.linkedin.com/in/arjun-kul) · [GitHub](https://github.com/arjkul)
+📬 [LinkedIn](https://www.linkedin.com/in/arjun-kul) · [GitHub](https://github.com/arjkul) · [Portfolio](https://arjkul.github.io)
